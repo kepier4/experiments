@@ -23,9 +23,10 @@
 		// List of URLs (two or more) for the experimental treatment and control groups.
 		var RedirectURLs = {
 			"urls" : [
-				{ "url" : "http://www.aftonbladet.se/" },
-				{ "url" : "http://www.dn.se/" },
-				{ "url" : "http://www.svd.se/" }
+				{ "url" : "https://jatos.mindprobe.eu/publix/2693/start?batchId=3042&generalMultiple" },
+				{ "url" : "https://jatos.mindprobe.eu/publix/2694/start?batchId=3043&generalMultiple" },
+				{ "url" : "https://jatos.mindprobe.eu/publix/2695/start?batchId=3044&generalMultiple" },
+				{ "url" : "https://jatos.mindprobe.eu/publix/2696/start?batchId=3045&generalMultiple" }
 			]
 		}
 
